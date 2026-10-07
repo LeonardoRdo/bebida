@@ -1,0 +1,410 @@
+{
+ "hero/kit-churrasco": {
+  "unsplash": "https://unsplash.com/photos/nCxCBnK6UKQ/download?force=true",
+  "alt": "Garrafas Heineken colocadas na caixa térmica marrom",
+  "size": [
+   2000,
+   1333
+  ]
+ },
+ "hero/kit-happy-hour": {
+  "unsplash": "https://unsplash.com/photos/PmSk3XgSsDI/download?force=true",
+  "alt": "um copo de vinho com limões e um raminho de alecrim",
+  "size": [
+   2000,
+   3012
+  ]
+ },
+ "hero/kit-noite-de-vinho": {
+  "unsplash": "https://unsplash.com/photos/TViy-e-14bo/download?force=true",
+  "alt": "uma pessoa segurando um copo de vinho na mão",
+  "size": [
+   2000,
+   1500
+  ]
+ },
+ "hero/kit-sem-alcool": {
+  "unsplash": "https://unsplash.com/photos/wQFmDhrvVSs/download?force=true",
+  "alt": "Duas latas vermelhas de Coca-Cola cobertas de condensação repousando sobre uma cama de gelo",
+  "size": [
+   2000,
+   1333
+  ]
+ },
+ "categorias/cervejas": {
+  "unsplash": "https://unsplash.com/photos/B8G1pHYOC74/download?force=true",
+  "alt": "garrafa de vidro verde na bandeja de aço inoxidável",
+  "size": [
+   800,
+   1200
+  ]
+ },
+ "categorias/cervejas-especiais": {
+  "unsplash": "https://unsplash.com/photos/EUO7L470LXk/download?force=true",
+  "alt": "copo transparente com cerveja na mesa preta",
+  "size": [
+   800,
+   1200
+  ]
+ },
+ "categorias/vinhos": {
+  "unsplash": "https://unsplash.com/photos/CPMZguYURMw/download?force=true",
+  "alt": "garrafas de vinho no rack",
+  "size": [
+   800,
+   1200
+  ]
+ },
+ "categorias/espumantes": {
+  "unsplash": "https://unsplash.com/photos/f54dnkSRSMc/download?force=true",
+  "alt": "copo de vinho transparente com líquido castanho",
+  "size": [
+   800,
+   1200
+  ]
+ },
+ "categorias/destilados": {
+  "unsplash": "https://unsplash.com/photos/FJS2CCXzIdc/download?force=true",
+  "alt": "frasco de vidro transparente com líquido vermelho",
+  "size": [
+   800,
+   705
+  ]
+ },
+ "categorias/drinks-prontos": {
+  "unsplash": "https://unsplash.com/photos/WCu1SO054l4/download?force=true",
+  "alt": "tesco geleia de morango na placa de cerâmica branca",
+  "size": [
+   800,
+   800
+  ]
+ },
+ "categorias/refrigerantes": {
+  "unsplash": "https://unsplash.com/photos/PZsso_IiYRE/download?force=true",
+  "alt": "copo transparente com líquido castanho",
+  "size": [
+   800,
+   1000
+  ]
+ },
+ "categorias/sucos": {
+  "unsplash": "https://unsplash.com/photos/_bQxQlLpoVY/download?force=true",
+  "alt": "três garrafas de suco sentadas em uma prateleira",
+  "size": [
+   800,
+   1200
+  ]
+ },
+ "categorias/aguas": {
+  "unsplash": "https://unsplash.com/photos/4bFKX8G419Q/download?force=true",
+  "alt": "pessoa segurando garrafa derramando água no copo de beber",
+  "size": [
+   800,
+   1120
+  ]
+ },
+ "categorias/energeticos": {
+  "unsplash": "https://unsplash.com/photos/B2Cs6kw5VNM/download?force=true",
+  "alt": "Red Bull bebida energética pode",
+  "size": [
+   800,
+   533
+  ]
+ },
+ "categorias/gelo": {
+  "unsplash": "https://unsplash.com/photos/PteeDvACFak/download?force=true",
+  "alt": "Um monte de fragmentos de vidro azul irregular com bordas afiadas e superfícies reflexivas",
+  "size": [
+   800,
+   533
+  ]
+ },
+ "categorias/carvao": {
+  "unsplash": "https://unsplash.com/photos/s20nA2KB1N4/download?force=true",
+  "alt": "lenha queimada",
+  "size": [
+   800,
+   533
+  ]
+ },
+ "categorias/petiscos": {
+  "unsplash": "https://unsplash.com/photos/TysS85XkjgI/download?force=true",
+  "alt": "cacho de amendoim marrom",
+  "size": [
+   800,
+   533
+  ]
+ },
+ "categorias/acessorios": {
+  "unsplash": "https://unsplash.com/photos/6C6PNsRxqMg/download?force=true",
+  "alt": "um copo de cerveja em uma mesa preta",
+  "size": [
+   800,
+   1070
+  ]
+ },
+ "produtos/heineken": {
+  "unsplash": "https://unsplash.com/photos/mhad_4H6S14/download?force=true",
+  "alt": "Garrafa de cerveja Heineken na superfície verde",
+  "size": [
+   900,
+   1350
+  ]
+ },
+ "produtos/corona-extra": {
+  "unsplash": "https://unsplash.com/photos/Gla6keSyoU0/download?force=true",
+  "alt": "garrafa rotulada marrom e preta",
+  "size": [
+   900,
+   1350
+  ]
+ },
+ "produtos/stella-artois": {
+  "unsplash": "https://unsplash.com/photos/EHbFnSIj1Qw/download?force=true",
+  "alt": "fotografia de foco seletivo da garrafa de Stella Artois na piscina ao lado",
+  "size": [
+   900,
+   1317
+  ]
+ },
+ "produtos/budweiser": {
+  "unsplash": "https://unsplash.com/photos/BzRY-cmXyC0/download?force=true",
+  "alt": "uma garrafa de cerveja sentada em cima de uma mesa coberta de neve",
+  "size": [
+   900,
+   1350
+  ]
+ },
+ "produtos/skol": {
+  "unsplash": "https://unsplash.com/photos/mSCiBh0YUgo/download?force=true",
+  "alt": "duas latas amarelas e prateadas",
+  "size": [
+   900,
+   601
+  ]
+ },
+ "produtos/ipa-artesanal": {
+  "unsplash": "https://unsplash.com/photos/V1tY4cc5C3w/download?force=true",
+  "alt": "Uma garrafa de cerveja sentada em cima de uma mesa",
+  "size": [
+   900,
+   1350
+  ]
+ },
+ "produtos/vinho-tinto-reserva": {
+  "unsplash": "https://unsplash.com/photos/hOgog7l-iuY/download?force=true",
+  "alt": "uma garrafa de vinho ao lado de um copo de vinho",
+  "size": [
+   900,
+   600
+  ]
+ },
+ "produtos/vinho-branco-sauvignon": {
+  "unsplash": "https://unsplash.com/photos/tDfILN5dfx4/download?force=true",
+  "alt": "garrafa branca com rótulo ao lado de um copo de vinho transparente",
+  "size": [
+   900,
+   1125
+  ]
+ },
+ "produtos/espumante-brut": {
+  "unsplash": "https://unsplash.com/photos/O6xnE4kW4_I/download?force=true",
+  "alt": "Uma garrafa de vinho e um copo sobre uma mesa",
+  "size": [
+   900,
+   601
+  ]
+ },
+ "produtos/gin-hendricks": {
+  "unsplash": "https://unsplash.com/photos/_Gth6cQKJZ4/download?force=true",
+  "alt": "uma garrafa de álcool",
+  "size": [
+   900,
+   599
+  ]
+ },
+ "produtos/vodka-smirnoff": {
+  "unsplash": "https://unsplash.com/photos/nkUtcTb7SOg/download?force=true",
+  "alt": "Garrafa de vodka Smirnoff além de shot glass",
+  "size": [
+   900,
+   1200
+  ]
+ },
+ "produtos/whisky-jack-daniels": {
+  "unsplash": "https://unsplash.com/photos/QVvq5VvMlU4/download?force=true",
+  "alt": "jack daniels velho no 7 tennessee uísque",
+  "size": [
+   900,
+   1353
+  ]
+ },
+ "produtos/cachaca-envelhecida": {
+  "unsplash": "https://unsplash.com/photos/VyfllVu3BvI/download?force=true",
+  "alt": "vidro transparente com líquido marrom dentro",
+  "size": [
+   900,
+   1349
+  ]
+ },
+ "produtos/drink-tropical": {
+  "unsplash": "https://unsplash.com/photos/S0nYZAikI9I/download?force=true",
+  "alt": "um close-up de um saco de comida",
+  "size": [
+   900,
+   1172
+  ]
+ },
+ "produtos/coca-cola": {
+  "unsplash": "https://unsplash.com/photos/z8PEoNIlGlg/download?force=true",
+  "alt": "Lata de Coca-Cola",
+  "size": [
+   900,
+   1125
+  ]
+ },
+ "produtos/tonica-schweppes": {
+  "unsplash": "https://unsplash.com/photos/orDFAlYPNwg/download?force=true",
+  "alt": "Uma lata de água tônica indiana schweppes",
+  "size": [
+   900,
+   1258
+  ]
+ },
+ "produtos/suco-uva-integral": {
+  "unsplash": "https://unsplash.com/photos/aj8KtR-gnTc/download?force=true",
+  "alt": "três copos de smoothie sentados em uma mesa",
+  "size": [
+   900,
+   1348
+  ]
+ },
+ "produtos/suco-laranja": {
+  "unsplash": "https://unsplash.com/photos/ccD0SOTmSwY/download?force=true",
+  "alt": "uma pessoa segurando uma garrafa de suco na mão",
+  "size": [
+   900,
+   1350
+  ]
+ },
+ "produtos/agua-mineral": {
+  "unsplash": "https://unsplash.com/photos/nfDBmg1K4Uw/download?force=true",
+  "alt": "garrafa de plástico transparente em telhas cerâmicas brancas",
+  "size": [
+   900,
+   1125
+  ]
+ },
+ "produtos/agua-com-gas": {
+  "unsplash": "https://unsplash.com/photos/k8CHk6c4_hc/download?force=true",
+  "alt": "garrafa azul-petróleo e marrom com fundo branco",
+  "size": [
+   900,
+   1350
+  ]
+ },
+ "produtos/energetico-red-bull": {
+  "unsplash": "https://unsplash.com/photos/UuogLBRwG7A/download?force=true",
+  "alt": "uma lata de bebida energética Red Bull sentada na neve",
+  "size": [
+   900,
+   1350
+  ]
+ },
+ "produtos/energetico-monster": {
+  "unsplash": "https://unsplash.com/photos/snQCK9ghEaA/download?force=true",
+  "alt": "uma lata de bebida energética monstro em um fundo preto",
+  "size": [
+   900,
+   1125
+  ]
+ },
+ "produtos/gelo-cubo": {
+  "unsplash": "https://unsplash.com/photos/iZCAvxp010o/download?force=true",
+  "alt": "Um grupo de cubos de gelo sentados em cima de uma mesa",
+  "size": [
+   900,
+   1350
+  ]
+ },
+ "produtos/carvao": {
+  "unsplash": "https://unsplash.com/photos/FR24wE03tz8/download?force=true",
+  "alt": "pedras pretas e vermelhas no solo preto",
+  "size": [
+   900,
+   1350
+  ]
+ },
+ "produtos/amendoim": {
+  "unsplash": "https://unsplash.com/photos/8LbcvCZnmyw/download?force=true",
+  "alt": "cacho de amendoim",
+  "size": [
+   900,
+   838
+  ]
+ },
+ "produtos/batata-chips": {
+  "unsplash": "https://unsplash.com/photos/ONQ86GlHs3c/download?force=true",
+  "alt": "batata frita na tigela",
+  "size": [
+   900,
+   1355
+  ]
+ },
+ "produtos/limao": {
+  "unsplash": "https://unsplash.com/photos/SowS9z1iCy8/download?force=true",
+  "alt": "limão fatiado no têxtil cinza",
+  "size": [
+   900,
+   1352
+  ]
+ },
+ "instagram/1": {
+  "unsplash": "https://unsplash.com/photos/KY95-c07D7w/download?force=true",
+  "alt": "dois pilsners cheios de cerveja",
+  "size": [
+   600,
+   800
+  ]
+ },
+ "instagram/2": {
+  "unsplash": "https://unsplash.com/photos/vCHHUpiU9sY/download?force=true",
+  "alt": "pessoa segurando copo transparente",
+  "size": [
+   600,
+   750
+  ]
+ },
+ "instagram/3": {
+  "unsplash": "https://unsplash.com/photos/BgFoh48lPnk/download?force=true",
+  "alt": "pessoa que segura a garrafa de vidro marrom",
+  "size": [
+   600,
+   400
+  ]
+ },
+ "instagram/4": {
+  "unsplash": "https://unsplash.com/photos/yDSe7sggb9Q/download?force=true",
+  "alt": "pessoas segurando garrafas de vidro transparente durante o dia",
+  "size": [
+   600,
+   400
+  ]
+ },
+ "instagram/5": {
+  "unsplash": "https://unsplash.com/photos/7EbGkOm8pWM/download?force=true",
+  "alt": "mulher na regata preta que segura o copo de vinho transparente",
+  "size": [
+   600,
+   400
+  ]
+ },
+ "instagram/6": {
+  "unsplash": "https://unsplash.com/photos/UErWoQEoMrc/download?force=true",
+  "alt": "fotografia de pessoa segurando garrafas de vidro durante o pôr do sol",
+  "size": [
+   600,
+   400
+  ]
+ }
+}
