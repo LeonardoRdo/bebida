@@ -5,6 +5,7 @@
 # React Router
 /.react-router/
 /build/
+dist
 
 # Site usado como referência visual (outro projeto)
 /site referencia/
